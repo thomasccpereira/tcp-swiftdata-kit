@@ -12,7 +12,7 @@ let package = Package(
    ],
    dependencies: [
       .package(url: "https://github.com/thomasccpereira/tcp-files-kit", from: "1.0.0"),
-      .package(url: "https://github.com/thomasccpereira/tcp-core-resources", from: "1.0.1"),
+      .package(url: "https://github.com/thomasccpereira/tcp-core-resources", from: "1.2.0"),
    ],
    targets: [
       .target(
